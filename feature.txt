@@ -1,0 +1,4 @@
+#new stroke
+import sys
+class CannotResolve(Exception):
+    pass
