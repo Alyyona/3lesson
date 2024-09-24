@@ -1,8 +1,0 @@
-tori = 0
-y = int(input('Number'))
-if y<10:
-    tori = 2^y + tori
-    print(tori)
-else:
-    print("Плаки, плаки")
-#Изменение ветки срочео необходимо, дополнить ее срочно!
